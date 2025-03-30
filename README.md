@@ -37,7 +37,6 @@
 ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs)
 ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
-![Mongoose](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
 ![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind)
 ![Markdown](https://go-skill-icons.vercel.app/api/icons?i=markdown)
 ![React](https://go-skill-icons.vercel.app/api/icons?i=react)
