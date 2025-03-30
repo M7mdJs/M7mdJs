@@ -68,15 +68,6 @@
 
 
 
-<div align="center">
-  
-
-  ![Recent Repositories](https://github-readme-stats.vercel.app/api/top-repos/?username=M7mdJs&theme=radical&count=5&layout=compact)
-  
-
-</div>
-
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -90,8 +81,5 @@
 </p>
 
 
-<div align="center">
-  <img src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-top: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); border: 4px solid #f75c7e;" />
-</div>
 
 ---
