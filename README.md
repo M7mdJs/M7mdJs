@@ -22,7 +22,7 @@
 - 🌱 Always learning and exploring new technologies
 - 🔭 Working on innovative web solutions
 - 👨‍💻 Open source contributor
-- 🌐 Visit my [portfolio website](https://m7mjs.pages.dev/)
+- 🌐 Visit my [portfolio website](https://m7mdjsx.vercel.app/)
 
 ## 💼 Experience
 <div align="center">
@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://m7mjs.pages.dev/">
+  <a href="https://m7mdjsx.vercel.app/">
     <img src="https://img.shields.io/badge/Website-m7mjs.pages.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://x.com/M7md_jsx">
